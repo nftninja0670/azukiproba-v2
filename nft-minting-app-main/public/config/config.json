@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4b35B443886f391D7dBF421fCaF3632A4c6b18a7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x4b35b443886f391d7dbf421fcaf3632a4c6b18a7",
+  "NETWORK": {
+    "NAME": "mumbai",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Azuki probav2",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/azuki-proba",
+  "SHOW_BACKGROUND": true
+}
